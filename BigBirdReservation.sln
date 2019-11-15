@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBirdReservation.Server", "BigBirdReservation\Server\BigBirdReservation.Server.csproj", "{DB04E58E-CCC5-4F4E-BE24-696F88BBDAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBirdReservation.Client", "BigBirdReservation\Client\BigBirdReservation.Client.csproj", "{63947625-59B6-4DE6-948A-E8C416D8F96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBirdReservation.Shared", "BigBirdReservation\Shared\BigBirdReservation.Shared.csproj", "{D2F72403-EDFE-453D-B010-1500D4FA301F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB04E58E-CCC5-4F4E-BE24-696F88BBDAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB04E58E-CCC5-4F4E-BE24-696F88BBDAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB04E58E-CCC5-4F4E-BE24-696F88BBDAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB04E58E-CCC5-4F4E-BE24-696F88BBDAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63947625-59B6-4DE6-948A-E8C416D8F96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63947625-59B6-4DE6-948A-E8C416D8F96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63947625-59B6-4DE6-948A-E8C416D8F96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63947625-59B6-4DE6-948A-E8C416D8F96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F72403-EDFE-453D-B010-1500D4FA301F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F72403-EDFE-453D-B010-1500D4FA301F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F72403-EDFE-453D-B010-1500D4FA301F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F72403-EDFE-453D-B010-1500D4FA301F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02ABCC6F-BA31-49BF-A6FF-4E294F67901A}
+	EndGlobalSection
+EndGlobal
